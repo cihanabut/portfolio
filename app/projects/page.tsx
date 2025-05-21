@@ -57,9 +57,7 @@ export default function Projects() {
           Projets
         </h1>
         <p className="mb-8 text-gray-400 max-w-2xl">
-          Une sélection de mes projets récents en gestion de projet digital, développement web
-          UX/UI et marketing. Chaque projet représente un défi unique et des
-          solutions adaptées.
+          Une sélection de mes projets récents en gestion de projet digital, développement web UX/UI et marketing. Chaque projet représente un défi unique et des solutions adaptées.
         </p>
 
         <div className="grid gap-8 md:grid-cols-2">
