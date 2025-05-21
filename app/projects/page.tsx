@@ -6,13 +6,12 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Refonte du site Iziconfort",
+      title: "Localsteps",
       description:
-        "Amélioration UX et augmentation des conversions pour cette plateforme de services énergétiques.",
+        "Refonte UX et pilotage du projet de A à Z pour cette plateforme de recommandations locales.",
       image: "/placeholder.svg?height=400&width=600",
-      tags: ["UX/UI", "Gestion de projet", "WordPress"],
-      year: "2024",
-      link: "#",
+      tags: ["UX/UI", "Gestion de projet"],
+      link: "https://localstepsv2.onrender.com/",
     },
     {
       id: 2,
@@ -21,28 +20,25 @@ export default function Projects() {
         "Stratégie pour augmenter la visibilité de la plateforme d'analyse de chatbots et améliorer l'acquisition.",
       image: "/placeholder.svg?height=400&width=600",
       tags: ["Marketing Digital", "SEO", "Analytics"],
-      year: "2023",
       link: "#",
     },
     {
       id: 3,
-      title: "Application de suivi client",
+      title: "WindMap",
       description:
-        "Application interne pour le suivi des interactions clients et l'amélioration du service après-vente.",
+        "Prototype d’interface de data visualisation sur les énergies renouvelables, conçu avec Figma.",
       image: "/placeholder.svg?height=400&width=600",
-      tags: ["JavaScript", "PHP", "SQL"],
-      year: "2023",
-      link: "#",
+      tags: ["Figma"],
+      link: "https://www.figma.com/proto/4HrzLKPHl6Jz6C67MFcinI/Abut-Cihan-CMW-Groupe-2---WindMap?node-id=7-63&starting-point-node-id=7%3A63",
     },
     {
       id: 4,
-      title: "Optimisation SEO",
+      title: "CMS",
       description:
-        "Amélioration du classement et du trafic organique pour une entreprise de services B2B.",
+        "Un système simple de gestion de contenu (CMS) simple pour un blog.",
       image: "/placeholder.svg?height=400&width=600",
-      tags: ["SEO", "Analytics", "Content Strategy"],
-      year: "2022",
-      link: "#",
+      tags: ["JS", "PHP", "CSS"],
+      link: "https://github.com/cihanabut/CMS-content",
     },
   ];
 
@@ -61,7 +57,7 @@ export default function Projects() {
           Projets
         </h1>
         <p className="mb-8 text-gray-400 max-w-2xl">
-          Une sélection de mes projets récents en gestion de projet digital,
+          Une sélection de mes projets récents en gestion de projet digital, développement web
           UX/UI et marketing. Chaque projet représente un défi unique et des
           solutions adaptées.
         </p>
