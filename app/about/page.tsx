@@ -140,7 +140,7 @@ export default function About() {
                 </div>
                 <div className="md:col-span-3">
                   <h3 className="text-xl font-bold">
-                    Master Culture et Métiers du Web
+                    Gestion de projet informatique
                   </h3>
                   <p className="text-gray-400">
                     Université Gustave Eiffel, Champs-sur-Marne
@@ -194,7 +194,7 @@ export default function About() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
-                    Agile
+                    Agile Methodologies 
                   </span>
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
                     Jira
@@ -229,7 +229,7 @@ export default function About() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
-                    Français (C1)
+                    Français 
                   </span>
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
                     Anglais
