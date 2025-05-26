@@ -27,7 +27,7 @@ export default function Projects() {
       title: "WindMap",
       description:
         "Prototype d’interface de data visualisation sur les énergies renouvelables, conçu avec Figma.",
-      image: "/images/windmap.png",
+      image: "/images/wind.png",
 
       tags: ["Figma"],
       link: "https://www.figma.com/proto/4HrzLKPHl6Jz6C67MFcinI/Abut-Cihan-CMW-Groupe-2---WindMap?node-id=7-63&starting-point-node-id=7%3A63",

@@ -33,7 +33,7 @@ export default function AudioPlayer({ audioSrc }: AudioPlayerProps) {
     <div className="flex items-center justify-center">
       <audio
         ref={audioRef}
-        src={audioSrc}
+        src="/public/cihanabut.mp3"
         onEnded={handleAudioEnded}
         className="hidden"
       />
