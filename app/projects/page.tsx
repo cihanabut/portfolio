@@ -9,7 +9,7 @@ export default function Projects() {
       title: "Localsteps",
       description:
         "Refonte UX et pilotage du projet de A à Z pour cette plateforme de recommandations locales.",
-      image: "/localsteps.png",
+      image: "/images/localsteps.png",
       tags: ["UX/UI", "Gestion de projet"],
       link: "https://localstepsv2.onrender.com/",
     },
@@ -18,7 +18,7 @@ export default function Projects() {
       title: "Campagne marketing Botanalytics",
       description:
         "Stratégie pour augmenter la visibilité de la plateforme d'analyse de chatbots et améliorer l'acquisition.",
-      image: "/botanalytics.png",
+      image: "/images/botanalytics.png",
       tags: ["Marketing Digital", "SEO", "Analytics", "Product Management"],
       link: "https://www.linkedin.com/newsletters/powered-by-data-7055205020966764545/",
     },
@@ -27,7 +27,7 @@ export default function Projects() {
       title: "WindMap",
       description:
         "Prototype d’interface de data visualisation sur les énergies renouvelables, conçu avec Figma.",
-      image: "/windmap.png",
+      image: "/images/windmap.png",
 
       tags: ["Figma"],
       link: "https://www.figma.com/proto/4HrzLKPHl6Jz6C67MFcinI/Abut-Cihan-CMW-Groupe-2---WindMap?node-id=7-63&starting-point-node-id=7%3A63",
