@@ -41,7 +41,7 @@ export default function About() {
                 <h2 className="mb-3 text-lg font-medium text-[#f97316]">
                   Comment prononcer mon nom ?
                 </h2>
-                <AudioPlayer audioSrc="/audio/pronunciation.mp3" />
+                <AudioPlayer audioSrc="/public/cihanabut.mp4" />
               </div>
 
               <div className="space-y-6">
@@ -101,7 +101,10 @@ export default function About() {
                   </h3>
                   <p className="mb-2 text-gray-400">Iziconfort, Groupe EDF</p>
                   <ul className="pl-5 mt-2 space-y-1 list-disc text-gray-300">
-                    <li>Assistance à la cheffe de projet web pour la gestion du site e-commerce Iziconfort</li>
+                    <li>
+                      Assistance à la cheffe de projet web pour la gestion du
+                      site e-commerce Iziconfort
+                    </li>
                     <li>Gestion et suivi des projets digitaux</li>
                     <li>Évolutions techniques et fonctionnelles</li>
                     <li>Création des cahiers de recette</li>
@@ -195,7 +198,7 @@ export default function About() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
-                    Méthodologies agiles 
+                    Méthodologies agiles
                   </span>
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
                     Jira
@@ -230,7 +233,7 @@ export default function About() {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
-                    Français 
+                    Français
                   </span>
                   <span className="px-3 py-1 text-sm bg-[#333] rounded-full transition-all duration-300 hover:bg-[#444] hover:scale-105">
                     Anglais
