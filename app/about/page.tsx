@@ -41,7 +41,7 @@ export default function About() {
                 <h2 className="mb-3 text-lg font-medium text-[#f97316]">
                   Comment prononcer mon nom ?
                 </h2>
-                <AudioPlayer audioSrc="/public/cihanabut.mp4" />
+                <AudioPlayer audioSrc="cihanabut.mp3" />
               </div>
 
               <div className="space-y-6">
