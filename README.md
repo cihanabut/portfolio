@@ -3,7 +3,7 @@
 Bienvenue dans mon portfolio en ligne !  
 Ce projet présente mes réalisations en tant que Product Owner et Cheffe de Projet Digital, ainsi que mes compétences en développement front-end.
 
-🔗 [Voir le site en ligne](https://cihanabut-portfolio.vercel.app/)
+🔗 [Voir le site en ligne](https://portfoliocihanabut.vercel.app/)
 
 ---
 
