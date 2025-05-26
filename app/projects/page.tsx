@@ -9,7 +9,7 @@ export default function Projects() {
       title: "Localsteps",
       description:
         "Refonte UX et pilotage du projet de A à Z pour cette plateforme de recommandations locales.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/localsteps.png",
       tags: ["UX/UI", "Gestion de projet"],
       link: "https://localstepsv2.onrender.com/",
     },
@@ -18,16 +18,17 @@ export default function Projects() {
       title: "Campagne marketing Botanalytics",
       description:
         "Stratégie pour augmenter la visibilité de la plateforme d'analyse de chatbots et améliorer l'acquisition.",
-      image: "/placeholder.svg?height=400&width=600",
-      tags: ["Marketing Digital", "SEO", "Analytics"],
-      link: "#",
+      image: "/botanalytics.png",
+      tags: ["Marketing Digital", "SEO", "Analytics", "Product Management"],
+      link: "https://www.linkedin.com/newsletters/powered-by-data-7055205020966764545/",
     },
     {
       id: 3,
       title: "WindMap",
       description:
         "Prototype d’interface de data visualisation sur les énergies renouvelables, conçu avec Figma.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/windmap.png",
+
       tags: ["Figma"],
       link: "https://www.figma.com/proto/4HrzLKPHl6Jz6C67MFcinI/Abut-Cihan-CMW-Groupe-2---WindMap?node-id=7-63&starting-point-node-id=7%3A63",
     },
@@ -57,7 +58,9 @@ export default function Projects() {
           Projets
         </h1>
         <p className="mb-8 text-gray-400 max-w-2xl">
-          Une sélection de mes projets récents en gestion de projet digital, développement web UX/UI et marketing. Chaque projet représente un défi unique et des solutions adaptées.
+          Une sélection de mes projets récents en gestion de projet digital,
+          développement web UX/UI et marketing. Chaque projet représente un défi
+          unique et des solutions adaptées.
         </p>
 
         <div className="grid gap-8 md:grid-cols-2">
