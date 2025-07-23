@@ -38,7 +38,7 @@ export default function Home() {
             <h2 className="text-base font-medium text-center mb-2 text-[#f97316]">
               Comment prononcer mon nom ?
             </h2>
-            <AudioPlayer audioSrc="app/cihanabut-voice.mp4" />
+            <AudioPlayer audioSrc="app/cihan.mp4" />
           </div>
 
           {/* Navigation Buttons */}
