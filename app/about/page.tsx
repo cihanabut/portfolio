@@ -62,7 +62,7 @@ export default function About() {
 
                 <div>
                   <a
-                    href="/cv-cihan-abut.pdf"
+                    href="/CihanAbutCV.pdf"
                     download
                     className="inline-flex items-center px-4 py-2 bg-[#f97316] text-white rounded-md hover:bg-[#ea580c] transition-colors duration-300"
                   >
