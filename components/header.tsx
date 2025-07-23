@@ -105,7 +105,7 @@ export default function Header() {
               À propos
             </Link>
             <a
-              href="/cv-cihan-abut.pdf"
+              href="/CihanAbutCV.pdf"
               download
               className="text-2xl text-white hover:text-[#f97316] transition-colors"
               onClick={() => setIsMenuOpen(false)}
